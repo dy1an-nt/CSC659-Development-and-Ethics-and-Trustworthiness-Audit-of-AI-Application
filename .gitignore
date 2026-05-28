@@ -1,0 +1,45 @@
+# macOS metadata & resource forks
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Claude local session data
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# C++ compiled binaries (executables without extension in run_tests/cpp/)
+run_tests/cpp/p07
+run_tests/cpp/p08
+run_tests/cpp/p09
+run_tests/cpp/p10
+run_tests/cpp/p11
+run_tests/cpp/p23
+run_tests/cpp/p24
+run_tests/cpp/p25
+run_tests/cpp/p26
+run_tests/cpp/p27
+run_tests/cpp/p28
+run_tests/cpp/p40
+run_tests/cpp/p41
+run_tests/cpp/p42
+run_tests/cpp/p43
+run_tests/cpp/p44
+
+# C++ generated test output
+run_tests/cpp/output_reversed.txt
+
+# Java compiled class files
+run_tests/java/**/*.class
+
+# Original Word document (PDF version included instead)
+*.docx
+
+# Personal / local files
+CV_Project_Bullets.md
